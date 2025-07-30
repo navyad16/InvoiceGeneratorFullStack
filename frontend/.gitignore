@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+venv/
+invg/
+
+# Django
+/static/
+media/
+
+# React
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.test
+.env.production
+
+# VSCode
+.vscode/
+
+# macOS and Windows
+.DS_Store
+Thumbs.db
